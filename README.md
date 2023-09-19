@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Uses of project folder, according these terms:-
-
+                                                                                                                                                                                                 
 bloc: This holds all the bloc classes and state, events for each BLoC used in projects.
 
 data: This directory will hold all the network, local DB, storage, etc., classes. Also, it holds all the model classes, 
